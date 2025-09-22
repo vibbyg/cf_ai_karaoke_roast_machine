@@ -8,3 +8,5 @@ song submissions are tracked with durable objects. If you keep on singing the sa
 remembers this and roasts you on it.
 
 It looks something like this:
+<img width="1182" height="934" alt="Screenshot 2025-09-22 at 6 45 33 PM" src="https://github.com/user-attachments/assets/ef62b30f-352c-4208-8485-2762d528efaf" />
+
