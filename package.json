@@ -1,0 +1,14 @@
+{
+  "name": "karaoke-roast-machine",
+  "version": "1.0.0",
+  "scripts": {
+    "deploy": "wrangler deploy",
+    "dev": "wrangler dev",
+    "tail": "wrangler tail"
+  },
+  "devDependencies": {
+    "@cloudflare/workers-types": "^4.20250922.0",
+    "typescript": "^5.7.2",
+    "wrangler": "^4.38.0"
+  }
+}
